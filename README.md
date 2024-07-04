@@ -1,5 +1,7 @@
 # Identifying Gender Gaps in Clinical Trial Research
 
+Team: Halee Staggs, Jessica Hin, Vicky van der Wagt
+
 ## Project Background
 There is a historical gender gap in clinical trial participation. The National Institutes of Health (NIH) Revitalization Act of 1993 introduced the requirement for females, in addition to underrepresented racial and ethnic minority populations, to be included in clinical trial research.
 The goal of this project is to classify the sex of participants in clinical trials from text descriptions of research goals pulled from the ClinicalTrials.gov API. More info about the API can be found here: https://clinicaltrials.gov/data-api/api. 
